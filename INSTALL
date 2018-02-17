@@ -1,0 +1,9 @@
+Building INVEST
+
+See doc/readme-qt.rst for instructions on building INVEST QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of INVEST.
+
+See doc/build-*.txt for instructions on building investd,
+the intended-for-services, no-graphical-interface, reference
+implementation of INVEST.
